@@ -6,3 +6,6 @@
 
 /* Project demonstration videos */
 .project-videos{margin-top:22px}.project-videos h4{font-size:15px;font-weight:650;margin:0 0 12px}.video-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:14px}.demo-video{margin:0;min-width:0}.demo-video video{display:block;width:100%;aspect-ratio:16/9;object-fit:contain;background:#101820;border-radius:6px;border:1px solid var(--line)}.demo-video figcaption{font-size:13px;color:var(--muted);margin-top:6px}@media(max-width:720px){.video-grid{grid-template-columns:1fr}}
+
+/* Contact icons */
+.profile-links,.contact-links{align-items:center;gap:8px 10px}.social-icon{display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;flex:0 0 44px;border-radius:6px;color:var(--blue)}.social-icon svg{display:block;width:32px;height:32px}.social-icon:hover{background:var(--soft);text-decoration:none}.social-icon:focus-visible{outline:3px solid #357eae;outline-offset:2px}
