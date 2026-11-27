@@ -9,3 +9,4 @@
 
 /* Contact icons */
 .profile-links,.contact-links{align-items:center;gap:8px 10px}.social-icon{display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;flex:0 0 44px;border-radius:6px;color:var(--blue)}.social-icon svg{display:block;width:32px;height:32px}.social-icon:hover{background:var(--soft);text-decoration:none}.social-icon:focus-visible{outline:3px solid #357eae;outline-offset:2px}
+.cv-page .project{display:block}
